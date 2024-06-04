@@ -2,4 +2,4 @@
 - 👀 I’m interested in Data science and Machine Learning.
 - 🌱 I’m currently learning Deep Learning Methodologies.
 - 💞️ I’m looking to collaborate on projects on Machine learning.
-- 📫 You can reach me through Email : chandrugayathri227@gmail.com
+- 📫 You can reach me through Email : chandru.cb22@bitsathy.ac.in, chandrugayathri227@gmail.com
